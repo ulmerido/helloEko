@@ -5,13 +5,13 @@ Solution Summary :
 ------------
 
 
-	•  index.html		                                  // main html page (linked to public/bundle.js)
-	•  package.json	                          	          // npm package
+	•  index.html		                                  	   // main html page (linked to public/bundle.js)
+	•  package.json	                          	          	   // npm package
 	•  webpack.config.js
 	•  babel.config
 	o Folder: public
-			• bundle.js                                // “all in 1"  js code with babel
-			• styles.css                      	   // “all in 1” css code 
+			• bundle.js                                	   // “all in 1"  js code with babel
+			• styles.css                      	           // “all in 1” css code 
 	o Folder:  src
 			o Folder: js
       				• FirebaseWrapper.js
