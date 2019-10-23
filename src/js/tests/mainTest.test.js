@@ -13,7 +13,7 @@ describe('Converting Seconds to HH:MM:SS format', () => {
         expect(tests.vc.ssToHHMMSS(3600)).toBe("01:00:00");
     });
 
-    test('3599 seconds should be 01:00:00  ', () => {
+    test('3599 seconds should be 59:59  ', () => {
         expect(tests.vc.ssToHHMMSS(3599)).toBe("59:59");
     });
 
