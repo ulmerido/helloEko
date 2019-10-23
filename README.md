@@ -29,7 +29,7 @@ Solution Summary :
 In main folder open the terminal and run:
 ```
  npm install
- npm run build   	 // to run on local server
+ npm run build   	 // to run on localhost
  npm run build:prod     // to build bundle.js 
  npm run test		// to run jest 
 ```
